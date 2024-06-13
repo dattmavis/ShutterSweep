@@ -16,7 +16,9 @@ Shutter Sweep is a lightweight photo culling application designed to help photog
 
 ## Screenshots
 
+![mainview](https://github.com/dattmavis/ShutterSweep/assets/84292097/1b2aa7cf-6612-436f-b323-2e92bbdc1885)
 
+![Upload Success](https://github.com/dattmavis/ShutterSweep/assets/84292097/a51d17c0-54ff-4a8e-803e-6262b0316b16)
 
 ## Technologies Used
 
